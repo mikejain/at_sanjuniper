@@ -39,7 +39,7 @@ A full-stack application that enables you to turn any document, resource, or pie
 
 </details>
 
-### Product Overview
+### Product Overview -
 
 AnythingLLM is a full-stack application where you can use commercial off-the-shelf LLMs or popular open source LLMs and vectorDB solutions to build a private ChatGPT with no compromises that you can run locally as well as host remotely and be able to chat intelligently with any documents you provide it.
 
